@@ -4,6 +4,7 @@ GEM
     ansi (1.5.0)
     builder (3.2.3)
     ffi (1.10.0)
+    greybutton_palindrome (0.2.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -42,6 +43,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  greybutton_palindrome (= 0.2.0)
   minitest (= 5.11.3)
   minitest-reporters (= 1.2.0)
   nokogiri (= 1.8.4)
